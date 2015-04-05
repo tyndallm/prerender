@@ -16,6 +16,6 @@
     "tree-kill": "0.0.6"
   },
   "bin": {
-    "prerender": "server.js"
+    "prerender": "prerender.js"
   }
 }
